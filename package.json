@@ -4,7 +4,7 @@
   "homepage": "https://jjrmich.github.io/js-events/",
   "private": true,
   "dependencies": {
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.0",
     "gh-pages": "^5.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
